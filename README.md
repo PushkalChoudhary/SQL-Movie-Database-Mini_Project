@@ -49,6 +49,12 @@ Foreign key constraints and composite primary keys are implemented, and data has
 
 ---
 
+## ERD
+
+![ER Diagram](https://github.com/PushkalChoudhary/SQL-Movie-Database-Mini_Project/blob/acb7e9d3d6871e5ba5aa7f30f42059b4bfb63b6f/Script%20and%20ERD/SQL_Movie_Project_ERD.jpg)
+
+---
+
 ## How to Run
 
 1. Import the `SQL_Movie_Project.sql` file into your PostgreSQL database.
